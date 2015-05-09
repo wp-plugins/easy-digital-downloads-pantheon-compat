@@ -1,0 +1,44 @@
+# Copyright (C) 2015 Easy Digital Downloads - Pantheon Compat
+# This file is distributed under the same license as the Easy Digital Downloads - Pantheon Compat package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Digital Downloads - Pantheon Compat 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/EDD-Pantheon-Compat\n"
+"POT-Creation-Date: 2015-05-09 07:48:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: edd-pantheon-compat.php:208
+msgid "This plugin is intended for use only on EDD sites hosted on Pantheon. Use on other hosts will cause system instability."
+msgstr ""
+
+#: includes/class.s214-edd-activation.php:77
+msgid " requires Easy Digital Downloads! Please activate it to continue!"
+msgstr ""
+
+#: includes/class.s214-edd-activation.php:79
+msgid " requires Easy Digital Downloads! Please install it to continue!"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Easy Digital Downloads - Pantheon Compat"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://section214.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Compatibility plugin for Easy Digital Downloads on Pantheon"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Daniel J Griffiths"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://section214.com"
+msgstr ""
